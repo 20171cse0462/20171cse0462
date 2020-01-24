@@ -1,3 +1,4 @@
 # 20171cse0462
 IT LAB
 always a GT
+6CSE7 
