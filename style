@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>HTML colors</title>
+</head>
+<body style="background-image: url('/home/Sem6B7/Desktop/462/index.jpeg');
+<h1 style="color:Blue;">This is a heading</h1>
+<p style="color:red;">This is a paragraph.</p>
+<h1 style="font-family:verdana;">this is a heading</h1>
+<p style="font-family:courier;">this is a paragraph.</p>
+<p style="font-size:300%;">This is a heading</h1>
+<h1 style="font-size:160%;">this is a paragraph.</p>
+<h1 style="text-align:center;">Centered</h1>
+<p style="text-align:center;">Centered paragraph &copy;</p>
+<p style="font-size;160%;">tag welcome &cent;</p>
+<p style="font-size:160%;">...</p>
+</body>
+</html>
+
+

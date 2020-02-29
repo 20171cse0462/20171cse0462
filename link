@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+<title>HTMLTable Cellpadding</title>
+<body>
+<h1> Aidan's Airplannes</h1>
+<h2> The best in used airplanes</h2>
+<h3> "We've got them by the hangarful"</h3>
+<h2> Special of the month</h2>
+<p>
+  1960 Cessna 210 <br />
+  <a href="Time table.html#image"> Information on the cessna 210</a>
+</p>
+</boday>
+</html>
