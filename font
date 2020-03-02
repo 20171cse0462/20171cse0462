@@ -1,0 +1,53 @@
+<html>
+<head>
+<style>
+p.normal {
+  font-style: normal;
+}
+
+p.italic {
+  font-style: italic;
+}
+
+p.oblique {
+  font-style: oblique;
+}
+
+h2 {
+  font-size: 30px;
+}
+h1 {
+  font-size: 2.5em; /* 40px/16=2.5em */
+}
+p.light {
+  font-weight: lighter;
+}
+
+p.thick {
+  font-weight: bold;
+}
+
+p.thicker {
+  font-weight: 900;
+}
+p.small {
+  font-variant: small-caps;
+}
+p.stretchr{ 
+font-stretch: ultra-expanded;}
+</style>
+</head>
+<body>
+
+<p class="normal">This is a paragraph in normal style.</p>
+<p class="italic">This is a paragraph in italic style.</p>
+<p class="oblique">This is a paragraph in oblique style.</p>
+<h1>This is heading 1EM</h1>
+<h2>This is heading 2Size</h2>
+<p class="light">This is a paragraph Light.</p>
+<p class="thick">This is a paragraph Thick.</p>
+<p class="thicker">This is a paragraph THicker.</p>
+<p class="small">My name is Nikhil Raj.</p>
+<p class="stretchr">My name is Nikhil Raj.</p>
+</body>
+</html>
