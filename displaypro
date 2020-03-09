@@ -1,0 +1,31 @@
+<html>
+<head>Display Property</head>
+<style>
+span.a{
+display:inline;
+width:100px;
+height:100px;
+padding:1px solid blue;
+background-color:yellow;
+}
+span.b{
+display:block;
+width:100px;
+height:100px;
+padding:1px solid blue;
+background-color:yellow;
+}
+span.c{
+display:block;
+width:100px;
+height:100px;
+padding:1px solid blue;
+background-color:yellow;
+}
+</style>
+<body>
+<span class="a">A display border.</p>
+<span class="b">A display border.</p>
+<span class="c">A display border.</p>
+</body>
+</html>
