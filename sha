@@ -1,0 +1,25 @@
+<html>
+<head>
+<style>
+h1 {
+  text-decoration: line-through;
+}
+
+h2 {
+  text-decoration: overline;
+  text-shadow: 3px 2px TEAL;
+}
+
+h3 {
+  text-decoration: underline;
+}
+</style>
+</head>
+<body>
+
+<h1 align="center">This Illustrates Line through</h1>
+<h2 align="right">This Illustrates overline</h2>
+<h3>This Illustrates is underline</h3>
+
+</body>
+</html>
