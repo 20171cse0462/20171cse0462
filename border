@@ -1,0 +1,67 @@
+<html>
+<head>
+<style>
+p.one{
+border-style:dotted;
+border-width:5px;
+border-color:red;
+}
+p.two{
+border-style:dashed;
+border-width:10px;
+border-color:green;
+}
+p.three{
+border-style:solid;
+border-width:5px;
+
+}
+p.four{
+border-style:double;
+border-width:10px;
+
+}
+p.five{
+border-style:groove;
+border-width:5px;
+}
+p.six{
+border-style:ridge;
+border-width:10px;
+}
+p.seven{
+border-style:inset;
+border-width:5px;
+}
+p.eight{
+border-style:outset;
+border-width:10px;
+}
+p.nine{
+border-style:none;
+border-width:5px;
+}
+p.ten{
+border-style:hidden;
+border-width:10px;
+}
+p.eleven{
+border-style:dashed dotted solid double;
+border-width:5px;
+}
+</style>
+</head>
+<body>
+<p class="one">A dotted border.</p>
+<p class="two">A dashed border.</p>
+<p class="three">A solid border.</p>
+<p class="four">A double border.</p>
+<p class="five">A groove border.</p>
+<p class="six">A ridge border.</p>
+<p class="seven">An inset border.</p>
+<p class="eight">An outset border.</p>
+<p class="nine">No border.</p>
+<p class="ten">A hidden border.</p>
+<p class="eleven">A hidden border.</p>
+</body>
+</html>
